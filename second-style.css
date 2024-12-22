@@ -25,7 +25,7 @@ body {
 }
 
 body.change{
-    animation:background-filter-close 2s linear ;
+    animation:background-filter-close 3s linear ;
 }
 @keyframes background-filter-close {
     50%{filter: blur(0px);}
